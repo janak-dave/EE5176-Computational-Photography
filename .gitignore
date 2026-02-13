@@ -1,0 +1,8 @@
+# Images
+*.png
+
+# PDF files
+*.pdf
+
+# MATLAB data files
+*.mat
